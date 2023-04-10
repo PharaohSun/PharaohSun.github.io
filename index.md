@@ -14,32 +14,31 @@ I am goal oriented, work effectively in high stress situations, and have strong 
 
 _**[Natural language processing 10-Ks to identify correlation with returns](Midterm_report/report.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Summary
+
+In this study we compared stocks listed in the S&P500 to their stock prices after their 10-K (mandatory Securities and Exchange Commission) filling where published. The null-hypothesis for this study was "A companies stock price affected by the linguistic sentiment presented in the companies 10-K filing." Linguistic sentiment was determined by 10 variables. 2 positive (negative) libraries created by Tim Loughran and Bill McDonald(LM), Diego Garcíaa, Xiaowen Hub, and Maximilian Rohrer(ML) respectivly, along with 3 positive (negative) categorical sentiment libraries created by myself. The sentiment score was determined by using a NEAR_regex function provided by our professor, which can be found in this project repository.
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Regression Assignment on Fannie Mae Dataset](regression/regression.md)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+### Summary
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+In this analysis you will see the impact different variables have on eachother and the price of a home. The variable relationships where determined by using linear regressions.
 
 ---
 
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+Private Wealth Management at Goldman Sachs and Co.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+Forex, Street Fashion, Calisthenics, Planet Money Podcast, 10 Minute Contrarian Podcast, and Spicy Chicken Sandwiches
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
