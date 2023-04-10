@@ -984,33 +984,3 @@ No you cannot use the specification of model 6 as a predictive regression becaus
 
 #### Question 12
 No you cannot use the specification of model 5 as a predictive regression because of the aforementioned issue in Q11 and this model is not separated categorically so the years are treated as continuous variables.
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
