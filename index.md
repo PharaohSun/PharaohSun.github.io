@@ -12,7 +12,7 @@ I am goal oriented, work effectively in high stress situations, and have strong 
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Natural language processing 10-Ks to identify correlation with returns](Midterm_report/report.md)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
@@ -28,17 +28,6 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ## Career Objectives
 
