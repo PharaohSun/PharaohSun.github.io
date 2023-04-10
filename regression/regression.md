@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---    
+
 ```python
 # Importing libraries
 import pandas as pd
