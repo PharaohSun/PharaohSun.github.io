@@ -1,8 +1,6 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
+I am Rha Overstreet, and I am a Senior at Lehigh University studying Financial Engineering in the Integrated Business and Engineering (IBE) Honors Program with majors in Industrial Systems Engineering and Finance. I expect to graduate in December 2023. I am goal oriented, work effectively in high stress situations, and have strong attention to detail skills. Throughout my time at Lehigh I have participated in multiple machine learning in finance research projects, I have represented our Integrated Business and Engineering Honors Program as the Vice President of Professional Development, and I have become a professional proprietary trader.
 
 <!-- Upload your own photo and change the path -->
 
