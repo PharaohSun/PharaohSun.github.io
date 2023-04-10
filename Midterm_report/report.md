@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---    
+
 # Rha Overstreet Midterm Report
 
 ## Fin 377 - Section 012 | Professor Bowen | Spring 2023
